@@ -1,0 +1,80 @@
+.body{
+    background-color: rgba(100, 100, 100, 0.1);
+}
+
+.header{
+    background-color: rgba(100, 100, 100, 0.1);
+    padding: 10px;
+}
+
+.main{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.img{
+    display: inline;
+    width: 3%;
+    height: 3%;
+}
+
+.h1{
+    display: inline;
+}
+
+.h2{
+    font-size: medium;
+    word-spacing: 25px;
+}
+
+.time{
+    background-color: rgba(250, 235, 250, 0.8);
+    font-size: 50px;
+    margin: 5px;
+}
+
+.p{
+    display: inline;
+}
+
+.form{
+    background-color: rgba(127, 255, 212,0.5);
+    margin: 20px;
+}
+
+.submit{
+    margin: 10px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30%;
+    padding: 10px 50px 10px 50px;
+
+}
+
+.ul{
+    display: inline;
+    list-style-type: none;
+    position: fixed;
+}
+
+.li{
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+}
+.li1{
+    color: rgb(21, 145, 187);
+}
+.li2{
+    color: blueviolet;
+}
+
+.li3{
+    background-color: brown;
+    color: white;
+}
+
+.footer{
+    background-color: rgb(100, 100, 100);
+    text-align: center;
+}
